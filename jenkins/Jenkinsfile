@@ -31,8 +31,7 @@ pipeline {
 
         stage('Deploy to Kubernetes') {
             steps {
-                 sh 'chmod +x deploy.sh'
-                 sh './deploy.sh'
+                 echo 'g'
             }
         }
     }
