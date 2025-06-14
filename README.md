@@ -45,7 +45,7 @@ git clone https://github.com/Vennilavan12/Trend.git
 
 
 Docker Hub Repos:
-https://hub.docker.com/repository/docker/heisenbergzz/dev/general
+https://hub.docker.com/repository/docker/heisenbergzz/dev
 
 EKS Cluster: trend-cluster in us-east-1
 
