@@ -15,6 +15,7 @@ Bash Scripting
 GitHub CLI
 
 📦 Project Setup
+
 1️⃣ Clone the App
 git clone https://github.com/Vennilavan12/Trend.git
 
@@ -29,11 +30,17 @@ git clone https://github.com/Vennilavan12/Trend.git
 🔁 CI/CD Pipeline
 
 📊 Monitoring Stack
+
 1️⃣ Create Monitoring Namespace:
 
-2️⃣ Install Prometheus + Grafana via Helm:
+2️⃣ Install Prometheus + Grafana:
 
 3️⃣ Access Grafana:
+
+
+
+
+
 ---------------------------------------------URLs ------------------------------------------------
 Docker Hub Repos:
 
