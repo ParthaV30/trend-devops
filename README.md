@@ -2,7 +2,7 @@
 🛠 Stack Used:
 React App 
 
---------------------------------------------Output screenshots are in the Terraform folder------------------------------------------------------
+--------------------------------------------Output screenshots are in the Trend folder---------------------------------------------
 
 Docker & Docker Hub
 
