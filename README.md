@@ -2,6 +2,8 @@
 🛠 Stack Used:
 React App 
 
+--------------------------------------------Output screenshots are in the Terraform folder------------------------------------------------------
+
 Docker & Docker Hub
 
 AWS EKS (Kubernetes)
